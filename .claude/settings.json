@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if [ -n \"$GIT_PAT\" ]; then git remote set-url origin https://TrevorGilles:${GIT_PAT}@github.com/TrevorGilles/Agentteja.git; fi"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -14,11 +14,11 @@ jobs:
       - name: Send latest brief to Telegram
         run: |
           LATEST=$(ls briefs/*.txt | sort | tail -1)
-          python3 - <<EOF
+          python3 - <<EOF2
           import urllib.request, json
           message = open("$LATEST").read()
           url = "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage"
           data = json.dumps({"chat_id": "${{ secrets.TELEGRAM_CHAT_ID }}", "text": message}).encode()
           req = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json"})
           print(urllib.request.urlopen(req).read().decode())
-          EOF
+          EOF2

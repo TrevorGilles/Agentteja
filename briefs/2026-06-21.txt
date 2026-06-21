@@ -1,0 +1,19 @@
+🚗 Automotive News Brief — 2026-06-21
+
+1. Honda and QuantumScape Team Up on Solid-State Batteries
+Honda signed a multi-year R&D agreement with QuantumScape to develop and manufacture solid-state batteries, becoming the startup's second major automaker partner after Volkswagen. The deal follows Honda's hands-on technical evaluation of QuantumScape's platform and sent QuantumScape shares up about 15%. Solid-state tech promises higher range and faster charging, a key race among automakers and battery suppliers.
+
+2. Sweden Urges EU to Reject Tesla FSD Over Speed Limit Feature
+Sweden's Transport Administration recommended the EU vote against bloc-wide approval of Tesla's Full Self-Driving unless its "Speed Offset" feature, which lets drivers set FSD to exceed posted limits, is removed. Finland and Norway have voiced similar concerns, while the Netherlands, Lithuania, Estonia, Denmark and Belgium have already approved FSD nationally. An EU-wide nod needs a qualified majority, leaving Tesla's rollout in limbo.
+
+3. Hyundai Recalls 421,000 Tucson and Santa Cruz Models for Phantom Braking
+Hyundai is recalling Tucson, Tucson Hybrid, Tucson PHEV and Santa Cruz vehicles after a front-camera software bug caused the forward collision system to brake unexpectedly, linked to 376 reports and four rear-end crashes. Dealers will update the camera software for free; notification letters go out by July 17. It's the latest in a string of advanced safety-system recalls across the industry.
+
+4. Nissan Recalls Over 51,000 Kicks SUVs for Blank Dashboard Displays
+A software logic error in the instrument cluster can cause communication failures during cold starts, leaving the Kicks' display blue, partial or completely blank and hiding warning lights. The defect affects 2025-2026 model year Kicks built between June 2024 and January 2026; Nissan says no crashes are linked so far. Dealers will install a free software fix taking about 30 minutes per vehicle.
+
+5. Ford Pushes Toward $30,000 Next-Generation EV Pickup
+After shelving the F-150 Lightning, Ford is moving ahead with a new EV platform meant to deliver smaller, more affordable and more profitable electric trucks, with a roughly $30,000 pickup targeted for 2027. The move reflects automakers recalibrating EV strategy around cost and demand rather than chasing range and size, as Ford separately warns the US will need 350,000+ new auto technicians by 2029.
+
+---
+Your daily Automotive News Agent
